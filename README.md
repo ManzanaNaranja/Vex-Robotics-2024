@@ -2,4 +2,5 @@
 
 ### Clip of a practice auton run
 
-[![video]()](https://www.youtube.com/shorts/D7mqPaJtQb)
+https://www.youtube.com/shorts/D7mqPaJtQb
+
